@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="lighterRed">#ef4e4f</color>
+    <color name="colorPrimary">#eb2224</color>
+    <color name="primaryRed">#eb2224</color>
+    <color name="darkRed">#bf0b0b</color>
+    <color name="colorPrimaryDark">#bf0b0b</color>
+    <color name="darkerRed">#ab0909</color>
+    <color name="backgroundRed">#c30101</color>
+    <color name="black">#000000</color>
+    <color name="colorAccent">#000000</color>
+    <color name="highlight">#0077cc</color>
+    <color name="loadPickedUp">#a0dfab</color>
+    <color name="darkerGreen">#74c882</color>
+    <color name="darkGreen">#49aa5a</color>
+    <color name="notConfirmed">#fff0cf</color>
+    <color name="loadEvent">#ff9c9c</color>
+    <color name="loadNotSelected">#eeeeee</color>
+    <color name="white">#ffffff</color>
+    <color name="secondaryBackgroundColor">#eeeeee</color>
+    <color name="settingsBackgroundColor">#f8f8f8</color>
+    <color name="darkerGray">#a9a9a9</color>
+    <color name="menuButtonGrey">#d8d8d8</color>
+    <color name="menuButtonDarkerGrey">#c8c8c8</color>
+    <color name="buttonDarkerGrey">#dddddd</color>
+    <color name="buttonPressed">#7d7d7d</color>
+    <color name="textBorderGrey">#a2a2a2</color>
+</resources>

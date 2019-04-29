@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="load_state_size">25sp</dimen>
+    <dimen name="truck_state_size">13sp</dimen>
+    <dimen name="route_stop_state_size">10sp</dimen>
+    <dimen name="route_stop_name_margin">1dp</dimen>
+    <dimen name="route_stop_address_margin">24dp</dimen>
+    <dimen name="route_stop_product_margin">36dp</dimen>
+    <dimen name="progress_bar_size">20dp</dimen>
+    <dimen name="too_fast_size">25sp</dimen>
+    <dimen name="no_scales_settings_text">35sp</dimen>
+
+    <dimen name="route_stop_items_size">10sp</dimen>
+    <dimen name="route_stop_quantity_size">13sp</dimen>
+</resources>

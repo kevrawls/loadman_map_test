@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LoadMan</string>
+
+    <string name="menu_connect_meter">Connect Truck</string>
+    <string name="menu_disconnect_meter">Disconnect Truck</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+</resources>

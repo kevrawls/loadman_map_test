@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="load_state_size">35sp</dimen>
+
+    <dimen name="alert_title_font_size">8sp</dimen>
+    <dimen name="alert_button_font_size">6sp</dimen>
+    <dimen name="last_stop_font_size">4sp</dimen>
+
+    <dimen name="route_stop_state_size">20sp</dimen>
+    <dimen name="truck_state_size">15sp</dimen>
+    <dimen name="content_main_button_font_size">15sp</dimen>
+
+    <dimen name="frame_angle_font_size">18sp</dimen>
+    <dimen name="frame_angle_margin">5dp</dimen>
+
+    <dimen name="route_stop_items_size">10sp</dimen>
+    <dimen name="route_stop_quantity_size">13sp</dimen>
+
+    <dimen name="progress_bar_size">30dp</dimen>
+
+    <dimen name="settings_title_size">30sp</dimen>
+    <dimen name="settings_text_large">20sp</dimen>
+    <dimen name="settings_text_medium">16sp</dimen>
+    <dimen name="settings_text_small">13sp</dimen>
+    <dimen name="settings_text_extra_small">10sp</dimen>
+    <dimen name="no_scales_settings_text">35sp</dimen>
+    <dimen name="too_fast_size">36sp</dimen>
+</resources>
